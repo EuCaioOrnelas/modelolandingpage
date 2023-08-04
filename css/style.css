@@ -134,6 +134,7 @@
   letter-spacing: 1px;
   font-weight: 700;
   line-height: normal;
+  text-decoration: none;
 }
 
 .button-action-one .button a {
