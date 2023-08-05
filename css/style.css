@@ -958,7 +958,7 @@
   }
 
   .facebook .descript .line {
-    width: 420px;
+    width: 300px;
     align-items: center;
     justify-content: center;
     border-bottom: 1px solid #000000;
@@ -998,7 +998,7 @@
   /*LIKE COMENTARIO 1*/
   .comentsection1 {
     display: flex;
-    padding-left: 35px;
+    padding-left: 50px;
     margin-top: -20px;
   }
 
