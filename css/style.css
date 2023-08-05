@@ -791,8 +791,8 @@
 
   .video video {
     margin: 30px 0;
-    width: 370px;
-    height: 210px;
+    width: 330px;
+    height: 185px;
     flex-shrink: 0;
     border: solid #fff 3px;
     border-radius: 8px;
@@ -911,7 +911,7 @@
 
   /*FACEBOOK*/
   .background {
-    width: 370px;
+    width: 330px;
     height: 900px;
     flex-shrink: 0;
     border-radius: 15px;
