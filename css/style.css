@@ -43,7 +43,14 @@
   font-weight: 700;
 }
 
-.tittle span {
+.tittle .span {
+  text-align: center;
+  padding: 30px 0;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+
+  text-shadow: 1px 1px 3px #00000096;
   border-radius: 5px;
   background: #0ea10b;
   padding: 5px 20px 5px 20px;
@@ -758,7 +765,7 @@
   }
 }
 
-@media (max-width: 435px) {
+@media (max-width: 450px) {
   .action .attention {
     display: flex;
     padding: 5px 10px;
@@ -784,8 +791,8 @@
 
   .video video {
     margin: 30px 0;
-    width: 290px;
-    height: 166px;
+    width: 370px;
+    height: 210px;
     flex-shrink: 0;
     border: solid #fff 3px;
     border-radius: 8px;
@@ -801,7 +808,14 @@
     text-shadow: 1px 1px 3px #00000096;
   }
 
-  .tittle span {
+  .tittle .span {
+    text-align: center;
+    padding: 30px 0;
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+
+    text-shadow: 1px 1px 3px #00000096;
     border-radius: 5px;
     background: #0ea10b;
     padding: 5px 20px 5px 20px;
@@ -897,7 +911,7 @@
 
   /*FACEBOOK*/
   .background {
-    width: 290px;
+    width: 370px;
     height: 900px;
     flex-shrink: 0;
     border-radius: 15px;
